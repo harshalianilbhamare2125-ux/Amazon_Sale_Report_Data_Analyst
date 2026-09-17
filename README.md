@@ -48,7 +48,5 @@ An interactive Power BI dashboard analyzing Amazon's sales performance, providin
 
 ### 🔗 Connect with Me
 *   **LinkedIn:** linkedin.com/in/harshali-bhamare-878300344
-*   
-
 ---
 ⭐ If you like this project, please give it a star!
