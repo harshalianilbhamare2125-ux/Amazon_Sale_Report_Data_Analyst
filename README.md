@@ -6,7 +6,8 @@
 An interactive Power BI dashboard analyzing Amazon's sales performance, providing key business insights on revenue, quantity, categories, and fulfillment.
 
 ### 📸 Dashboard Preview
-![Uploading Screenshot (415).png…]()
+C:\Users\Admin\Pictures\Screenshots\Screenshot (415).png
+
 
 > Replace with your screenshot
 
